@@ -1,0 +1,61 @@
+public class Main {
+    public static void main(String[] args) {
+
+
+/*      int a=123_456_789;
+        int b=5_______2;
+        int c=_123456789;
+        int d =123_456_789_;
+        float e= 3_.1415F;
+        long f=999_99_9999_L;
+        byte g = 0b0_1;
+        char b = 89;*/
+
+        /*int $a = 100;
+        int b_ = 200;
+        int _0 = 300;
+        int ${d} = 400;
+        int g.a = 700;*/
+
+        /*int a = 3;
+        int b = a += 5;*/
+
+        /*int num = -10;*/
+
+        /*int a = 100, b = 20, c = 30;*/
+        /*int val = 7;
+        boolean flg = true;
+
+        if (flg == true) {
+            do  {
+
+                System.out.println(val);
+
+                } while (flg);
+        }*/
+
+       /* int[] a;
+        int b[];
+        int[][] c;
+        int d[][];
+        int[] e[];
+        int[][] f[];
+
+        *//*int[] array = new int[0];*//*
+        *//*System.out.println('a' + "b" + "c" + "g");*/
+
+        /*int[] array = new int[0];
+        System.out.println(array);*/
+
+        /*String[] array = {"A","B","C","D"};
+        array[0] = null;
+        for (String str : array){
+            System.out.println(str);*/
+
+        /*int[] a = new int[2]{ 2, 3 };*/
+
+        int b[][]= {};
+
+
+    }
+}
