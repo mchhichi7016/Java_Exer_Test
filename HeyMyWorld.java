@@ -1,5 +1,23 @@
-public class HeyMyWorld {
+public class Main {
     public static void main(String[] args) {
-        System.out.println("hello");
+
+        int total = 0;
+        a:
+        for (int i = 0; i < 5; i++) {
+            b:
+            for (int j = 0; j < 5; j++) {
+                if (i % 2 == 0) continue a;
+                if (3 < j) break b;
+                total += j;
+
+                /*System.out.println(i);*/
+                /*System.out.println(j);*/
+
+            }
+
+        }
+        System.out.println(total);
+
+
     }
 }
